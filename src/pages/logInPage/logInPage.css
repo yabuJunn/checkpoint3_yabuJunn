@@ -1,0 +1,4 @@
+#mainContainerLogin {
+    display: flex;
+    flex-direction: column;
+}

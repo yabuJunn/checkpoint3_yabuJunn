@@ -1,0 +1,4 @@
+export enum SCREENS {
+    "LOGIN_SCREEN" = "LOGIN_SCREEN",
+    "GAME_SCREEN" = "GAME_SCREEN"
+}
